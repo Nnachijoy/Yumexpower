@@ -1,0 +1,71 @@
+
+/* body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+} */
+
+
+/* 
+.logo{
+  font-size: 60px;
+}
+
+.contact-us{
+  font-size:30px ;
+  color: black;
+}
+
+
+.yumex {
+font-size: 40px;
+font-weight: bolder;
+margin-top: 160px;
+font-family: 'Lucida Handwriting';
+text-align: center;
+}
+
+
+
+
+
+.explore{
+  font-size: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.font{
+  color: #007bff;;
+}
+
+
+.custom-center-row {
+  display: flex;
+  justify-content: center;
+}
+
+.pdf-images {
+  width: 100%;
+  height: auto; 
+}
+
+
+@media (max-width: 767px) {
+  .pdf-images {
+    width: 860px;
+    height: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .pdf-images {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+  }
+} */
