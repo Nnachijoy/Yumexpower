@@ -11,7 +11,7 @@ function MyNavbar() {
       <div className="contact-us fw-bolder px-5 mt-5 text-black"
        style={{ position: 'absolute', top: 0, right: 0, fontSize:'30px' }}>
       <p>
-  <a className='contact-us text-black'
+  <a className=' text-black'
    href="https://docs.google.com/forms/d/e/1FAIpQLScIdryo7J6Ub2nBe_ubp-6go3zIYRC-y8wfRhe5iSm6VhKbHQ/viewform?usp=pp_url">
     Contact Us
   </a>
