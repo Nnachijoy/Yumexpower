@@ -11,6 +11,7 @@ import Ten from '../assets/Ten.pdf';
 import vectorarrow from '../assets/vectorarrow.png';
 import learnarrow from '../assets/learnarrow.png';
 import tiles from '../assets/tiles.png';
+import carports from '../assets/carports.png';
 import cocacola from '../assets/cocacola.jpg';
 import crossriver from '../assets/crossriver.jpg';
 import daewoo from '../assets/daewoo.jpg';
@@ -65,7 +66,7 @@ function HeroSection() {
 
     <Col md={4} xs={6}>
       <div>
-        <h2 className='d-flex fw-bolder'>YUMEXZ SOLAR ROOF TILES</h2>
+        <h2 className='d-flex fw-bolder'>YUMEXZ POWER SOLAR ROOF TILES</h2>
         <a href={First} download={true} style={{ color: 'black', textDecoration: 'none' }} className='fw-bold'>
           <div className="d-flex align-items-center">
             <img src={vectorarrow} alt="vectorarrow" style={{ marginRight: '10px' }} />
@@ -128,7 +129,7 @@ function HeroSection() {
       <div>
         <a href={First} download={true} style={{ color: 'black', textDecoration: 'none' }} className='fw-bold'>
           <div className="d-flex align-items-center">
-            <img src={tiles} alt="rooftiles"  className='w-100'/>
+            <img src={carports} alt="rooftiles"  className='w-100'/>
           </div>
         </a>
       </div>
