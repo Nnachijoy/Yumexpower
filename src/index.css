@@ -98,6 +98,20 @@ text-align: center;
   }
 }
 
+@media screen and (max-width: 767px) {
+  .contact-us {
+    font-size: 16px; /* Adjust the font size for mobile */
+  }
+}
+
+/* For desktop devices */
+@media screen and (min-width: 768px) {
+  .contact-us{
+    font-size: 20px; /* Adjust the font size for desktop */
+  }
+}
+
+
 
 /* For mobile devices */
 @media screen and (max-width: 767px) {

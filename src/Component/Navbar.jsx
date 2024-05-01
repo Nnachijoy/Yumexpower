@@ -28,8 +28,8 @@ function MyNavbar() {
     </h3>
 
 
-<div className=''>
-  <p className='text-center m-auto mx-auto'>
+<div className='contact-us'>
+  <p className='text-center m-auto mx-auto contact-us'>
     Contactus@yumexzpower.com<br/>
     +2348036568925, 09157604757</p>
 
