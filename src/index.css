@@ -87,7 +87,7 @@ text-align: center;
 /* For mobile devices */
 @media screen and (max-width: 767px) {
   .yumex {
-    font-size: 20px; /* Adjust the font size for mobile */
+    font-size: 25px; /* Adjust the font size for mobile */
   }
 }
 
