@@ -9,7 +9,7 @@ function MyNavbar() {
       </div>
 
       <div className="contact-us fw-bolder px-5 mt-5 text-black"
-       style={{ position: 'absolute', top: 0, right: 0, fontSize:'40px' }}>
+       style={{ position: 'absolute', top: 0, right: 0, fontSize:'30px' }}>
       <p>
   <a className='contact-us text-black'
    href="https://docs.google.com/forms/d/e/1FAIpQLScIdryo7J6Ub2nBe_ubp-6go3zIYRC-y8wfRhe5iSm6VhKbHQ/viewform?usp=pp_url">
@@ -18,10 +18,15 @@ function MyNavbar() {
 </p>
       </div>
 
-      <h3 className="fw-bolder p-0 yumex d-flex align-items-center justify-content-center"
-      style={{marginTop:'130px', fontFamily:'Lucida Handwriting'}}>
-  YUMEXZ POWER CONSULTANCY 
-</h3>
+    <h3 className="fw-bolder p-0 yumex d-flex align-items-center justify-content-center"
+      style={{
+        marginTop: '140px',
+        fontFamily: 'Lucida Handwriting',
+       
+      }}>
+      YUMEXZ POWER CONSULTANCY
+    </h3>
+
 
 <div className=''>
   <p className='text-center m-auto mx-auto'>

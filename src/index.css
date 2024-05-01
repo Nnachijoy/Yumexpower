@@ -31,6 +31,7 @@ text-align: center;
 
 
 
+
 .explore{
   font-size: 20px;
   text-align: center;
@@ -69,3 +70,49 @@ text-align: center;
     height: auto;
   }
 } */
+
+
+
+.image-mobile {
+  width: 50px;
+}
+
+
+@media (min-width: 768px) {
+  .image-mobile {
+    width: 100px;
+  }
+}
+
+/* For mobile devices */
+@media screen and (max-width: 767px) {
+  .yumex {
+    font-size: 20px; /* Adjust the font size for mobile */
+  }
+}
+
+/* For desktop devices */
+@media screen and (min-width: 768px) {
+  .yumex {
+    font-size: 70px; /* Adjust the font size for desktop */
+  }
+}
+
+
+/* For mobile devices */
+@media screen and (max-width: 767px) {
+  .supported-by {
+    font-size: 25px; /* Adjust the font size for mobile */
+  }
+}
+
+/* For desktop devices */
+@media screen and (min-width: 768px) {
+  .supported-by {
+    font-size: 60px; /* Adjust the font size for desktop */
+  }
+}
+
+
+
+
